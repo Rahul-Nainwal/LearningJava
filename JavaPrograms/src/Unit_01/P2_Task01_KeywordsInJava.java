@@ -21,6 +21,7 @@ public static void main(String[] args)
 	//class name [given below]
 	
 	//object
-	//object name can never
+	//object name can never be any keywords in java
+	ABC int = new ABC();
 }
 }
